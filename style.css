@@ -112,5 +112,26 @@
 
 #middle {
     display: flex;
+}
 
+/* -------middle end--------- */
+
+/* ----------footer start-------- */
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 10%;
+
+}
+
+.footer h1 {
+    color: white;
+    margin-bottom: 5%;
+}
+
+.footer-text {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
 }
