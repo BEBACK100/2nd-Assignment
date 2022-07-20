@@ -76,7 +76,41 @@
 
 }
 
-.transfer {
-    height: 32px;
+.text-box a {
+    text-decoration: none;
+}
+
+.text-box {
+    border: 1px solid black;
+    text-align: center;
     width: 100px;
+    margin-top: 10px;
+
+
+}
+
+.mega-pic-icon {
+    display: flex;
+    gap: 30px;
+    margin-top: 1px;
+}
+
+.mega-pic {
+    margin-top: 20px;
+    width: 312px;
+    height: 360px;
+}
+
+.mega-pic-text {}
+
+.mega-pic-players {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    gap: 4px;
+    margin-left: 10px;
+}
+
+#middle {
+    display: flex;
+
 }
