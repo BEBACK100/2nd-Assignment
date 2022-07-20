@@ -1,0 +1,82 @@
+/* banner section start */
+
+.banner-text {
+    font-family: 'Oswald', sans-serif;
+
+    padding: 5%;
+    margin-top: 20px;
+    color: white;
+    width: 50%;
+    justify-content: center;
+
+}
+
+.banner-top-text {
+    font-size: 40px;
+}
+
+.banner-pic {
+    padding-top: 15%;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+}
+
+.banner-btn a {
+    text-decoration: none;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.Tob-banner {
+    display: flex;
+    background-color: black;
+    border-radius: 10px;
+    margin: 4%;
+}
+
+/* ------banner end------- */
+
+/* ------Middle start----- */
+.upcomming {
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+.all-group {
+    justify-content: center;
+    text-align: center;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.blog {
+    justify-content: center;
+    text-align: center;
+    background-color: peru;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.middle-left {
+    width: 300px;
+    height: 200px;
+    left: 140px;
+    background-color: black;
+    padding: 4%;
+
+}
+
+.transfer {
+    height: 32px;
+    width: 100px;
+}
